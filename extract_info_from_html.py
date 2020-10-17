@@ -1,7 +1,4 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Name - Alka Raghav
-ID - a_r1527
-
 Assignment requirement:
 
 Input: Each input is a *.html file, which is a downloaded webpage for a faculty member listed on
